@@ -1,0 +1,19 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+#button2
+{
+    float: right;
+    background-color: black;
+   color: white;
+}
